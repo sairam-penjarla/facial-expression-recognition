@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+opencv-python
+torch
+torchvision
+tqdm
+datasets
+huggingface_hub
+transformers
+seaborn
